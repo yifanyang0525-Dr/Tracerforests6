@@ -65,20 +65,7 @@ python -m tracerforests6 \
 * **Reported in the paper:** Overall expansion of confirmed alias pairs by **1.78×** over the initial seed set (e.g., total 68,766 validated alias pairs vs. 38,538 initial). <!-- :contentReference[oaicite:21]{index=21} -->
 * **Reported in the paper:** In a controlled comparison, TracerForests6 discovered **6,216** alias pairs vs. **882** for TBT (≈ **7×** more). <!-- :contentReference[oaicite:22]{index=22} -->
 
-## Citation
 
-If you use TracerForests6 in academic work, please cite the paper:
-
-```bibtex
-@misc{tracerforests6,
-  title        = {Streamlining IPv6 Network Inventories: An Efficient Approach to IPv6 Alias Resolution},
-  author       = {Yifan Yang and Xionglve Li and Sizhuang Wu and Zhihuang Liu and Bo Yu and Bingnan Hou and Zhiping Cai},
-  note         = {Under review. BibTeX fields (venue/year/doi) to be updated upon acceptance.},
-  year         = {TODO}
-}
-```
-
-<!-- :contentReference[oaicite:23]{index=23} -->
 
 ## License & Responsible Use
 
@@ -90,7 +77,3 @@ Please use responsibly:
 * Follow active-measurement best practices and ensure probing is legal/compliant; avoid anomalous packets that could harm routers or intermediates. <!-- :contentReference[oaicite:25]{index=25} -->
 * Treat derived alias/topology data as potentially sensitive; apply anonymization before public release of sensitive artifacts. <!-- :contentReference[oaicite:26]{index=26} -->
 
-## Contact / Maintainers
-
-* Maintainers: TODO
-* Contact: TODO (add preferred email / issue tracker policy)
